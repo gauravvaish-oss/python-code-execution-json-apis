@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+genai
+python-dotenv
+pydantic
